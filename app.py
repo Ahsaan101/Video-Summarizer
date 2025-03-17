@@ -25,7 +25,7 @@ else:
 st.set_page_config(
     page_title="Multimodal AI Agent Video Summarizer",
     page_icon="🎥",
-    layout="wide"
+    layout="centered"
 )
 
 st.title(" Smart Video Summarizer Agent 🎥🎤🖬")
